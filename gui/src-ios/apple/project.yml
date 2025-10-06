@@ -88,3 +88,4 @@ targets:
           - $(SRCROOT)/Externals/x86_64/${CONFIGURATION}/libapp.a
           - $(SRCROOT)/Externals/arm64/${CONFIGURATION}/libapp.a
           - $(SRCROOT)/Externals/arm64-sim/${CONFIGURATION}/libapp.a
+# Update: 2025-10-06
